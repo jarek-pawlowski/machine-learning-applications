@@ -1,5 +1,5 @@
 # advanced-machine-learning
-notes for Advanced Machine Learning course
+notes for Machine Learning -- Applications course
 
 [timeline and grading](intro.pdf)
 
