@@ -1,4 +1,4 @@
-# advanced-machine-learning
+# machine-learning-applications
 notes for Machine Learning -- Applications course
 
 [timeline and grading](intro.pdf)
@@ -17,6 +17,14 @@ notes for Machine Learning -- Applications course
 [Colab notebook](mnist_in_3_flavours.ipynb)
 
 ![overfitted model](Deep.png)
+
+2. ECG signal classification
+- classifiers comparison: SVM, decision trees, random forests
+- feature vectors
+
+[Colab notebook](ecg_classification.ipynb)
+
+![ecg arrhythimas](signals.png)
     
 ## proposed seminars topics
 - [list of proposed topics](seminars_topics.pdf)
