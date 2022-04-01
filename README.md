@@ -7,6 +7,7 @@ notes for Machine Learning -- Applications course
 - [machine learning fundamentals](ML_fundamentals.pdf)
 - [decision trees](Decision_Trees.pdf)
 - [deep neural networks](Deep_NNs.pdf)
+- [convolutional neural networks](CNNs.pdf)
 
 ## laboratory classes
 1. Handwritten digits classification using MNIST dataset with Pytorch
