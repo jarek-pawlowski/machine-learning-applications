@@ -27,6 +27,13 @@ notes for Machine Learning -- Applications course
 [Colab notebook](ecg_classification.ipynb)
 
 ![ecg arrhythimas](signals.png)
+
+3. Image classification using deep CNNs
+- VGG, ResNet
+
+[Colab notebook](advancedCNNs.ipynb)
+
+![example results for VGG](VGGs.png)
     
 ## proposed seminars topics
 - [list of proposed topics](seminars_topics.pdf)
