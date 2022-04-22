@@ -9,6 +9,7 @@ notes for Machine Learning -- Applications course
 - [deep neural networks](Deep_NNs.pdf)
 - [convolutional neural networks](CNNs.pdf)
 - [computer vision: traditional methods](CV1.pdf)
+- [computer vision: deep-learning methods](CV2.pdf)
 
 ## laboratory classes
 1. Handwritten digits classification using MNIST dataset with Pytorch
