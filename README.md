@@ -36,6 +36,13 @@ notes for Machine Learning -- Applications course
 [Colab notebook](advancedCNNs.ipynb)
 
 ![example results for VGG](VGGs.png)
+
+4. Regularization
+- L2 and L1 regularization implemented by hand
+
+[Colab notebook](regularization.ipynb)
+
+![regularization results](regularization.png)
     
 ## proposed seminars topics
 - [list of proposed topics](seminars_topics.pdf)
