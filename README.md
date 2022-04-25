@@ -43,6 +43,7 @@ notes for Machine Learning -- Applications course
 [Colab notebook](regularization.ipynb)
 
 ![regularization results](regularization.png)
+![regularization results](regularization1.png)
     
 ## proposed seminars topics
 - [list of proposed topics](seminars_topics.pdf)
