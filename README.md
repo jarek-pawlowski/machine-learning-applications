@@ -10,6 +10,8 @@ notes for Machine Learning -- Applications course
 - [convolutional neural networks](CNNs.pdf)
 - [computer vision: traditional methods](CV1.pdf)
 - [computer vision: deep-learning methods](CV2.pdf)
+- [recurrent neural networks](RNNs.pdf)
+- [autoencoders and GANs](GANs.pdf)
 
 ## laboratory classes
 1. Handwritten digits classification using MNIST dataset with Pytorch
