@@ -52,7 +52,7 @@ notes for Machine Learning -- Applications course
     * use simple transformations (e.g. flip, rotate, translate, scale) using [scikit-image](https://scikit-image.org/docs/dev/api/skimage.transform.html), or [open-cv](https://docs.opencv.org/4.x/da/d6e/tutorial_py_geometric_transformations.html)
     * or use [albumentations](https://github.com/albumentations-team/albumentations) library, demo: https://albumentations-demo.herokuapp.com/
     * in case of MNIST verify if applying flips or rotations > 45 deg improve accuracy or not, why?
-- play with one-shot style transfer, understand the idea and run some exemplary code
+- play with one-shot style transfer that might be also used for images augmentation (e.g. see [here](https://www.nature.com/articles/s41598-022-09264-z)), understand the idea, and run some exemplary code on your own images
 > * papers:
 >   * [Gatys original paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf)
 >   * https://arxiv.org/pdf/1904.11617v1.pdf 
