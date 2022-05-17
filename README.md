@@ -59,6 +59,7 @@ notes for Machine Learning -- Applications course
 > * code:
 >   * https://github.com/limingcv/Photorealistic-Style-Transfer 
 >   * https://github.com/KushajveerSingh/Photorealistic-Style-Transfer
+- Example of combining *albumentations* with pytorch *Dataset* is presented [here](pytorch_albumentations.ipynb).
     
 ## proposed seminars topics
 - [list of proposed topics](seminars_topics.pdf)
