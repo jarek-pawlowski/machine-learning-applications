@@ -60,6 +60,15 @@ notes for Machine Learning -- Applications course
 > * code:
 >   * https://github.com/limingcv/Photorealistic-Style-Transfer 
 >   * https://github.com/KushajveerSingh/Photorealistic-Style-Transfer
+
+6. Convolutional GAN on MNIST
+- generative adversarial network model: generator & discriminator 
+- training GANs
+
+[Colab notebook](GAN_on_MNIST.ipynb)
+
+![example results for GAN model](generated_mnist.png)
+
     
 ## proposed seminars topics
 - [list of proposed topics](seminars_topics.pdf)
