@@ -1,7 +1,7 @@
 # machine-learning-applications
 notes for Machine Learning -- Applications course
 
-[timeline and grading](intro.pdf)
+[timeline and grading](rules.pdf)
 
 ## lecture notes:
 - [machine learning fundamentals](ML_fundamentals.pdf)
@@ -69,7 +69,9 @@ notes for Machine Learning -- Applications course
 
 ![example results for GAN model](generated_mnist.png)
 
+7. TBA
+
     
 ## proposed seminars topics
 - [list of proposed topics](seminars_topics.pdf)
-- [link to form with seminars dates](https://docs.google.com/spreadsheets/d/1kSdDbUz7RgYlxWKyKmG3xpZ-5N3pH8psrlj1DUCY3wk/edit?usp=sharing)
+- [link to form with seminars dates](TBA)
