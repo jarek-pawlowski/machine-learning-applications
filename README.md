@@ -4,9 +4,8 @@ notes for Machine Learning -- Applications course
 [timeline and grading](rules.pdf)
 
 ## lecture notes:
-- ...
+- [machine learning fundamentals](https://drive.google.com/file/d/1rTykp3Q3LSMrvouS1PCWwjdKNsW0uaJY/view?usp=sharing)
 <!--
-- [machine learning fundamentals](ML_fundamentals.pdf)
 - [decision trees](Decision_Trees.pdf)
 - [deep neural networks](Deep_NNs.pdf)
 - [convolutional neural networks](CNNs.pdf)
