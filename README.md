@@ -5,9 +5,9 @@ notes for Machine Learning -- Applications course
 
 ## lecture notes:
 - [machine learning fundamentals](https://drive.google.com/file/d/1rTykp3Q3LSMrvouS1PCWwjdKNsW0uaJY/view?usp=sharing)
+- [deep neural networks](https://drive.google.com/file/d/1V7Lf-F7PXAvxHVU7rc_7DMA0xduNcCRW/view?usp=sharing)
 <!--
 - [decision trees](Decision_Trees.pdf)
-- [deep neural networks](Deep_NNs.pdf)
 - [convolutional neural networks](CNNs.pdf)
 - [computer vision: traditional methods](CV1.pdf)
 - [computer vision: deep-learning methods](CV2.pdf)
