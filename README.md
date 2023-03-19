@@ -16,6 +16,9 @@ notes for Machine Learning -- Applications course
 -->
 
 ## laboratory classes
+0. Preliminary problems
+[Colab notebook](preliminary_problems.ipynb)
+
 1. Handwritten digits classification using MNIST dataset with Pytorch
 - models: perceptron, deep fully-connected network, generic CNN
 - various activations,
