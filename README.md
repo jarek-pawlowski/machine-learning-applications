@@ -8,9 +8,9 @@ notes for Machine Learning -- Applications course
 - [deep neural networks](https://drive.google.com/file/d/1V7Lf-F7PXAvxHVU7rc_7DMA0xduNcCRW/view?usp=sharing)
 - [decision trees and ensemble methods](https://drive.google.com/file/d/1mefPD7BHD-Qb7pyoCEOynCBuUdhs-Pro/view?usp=sharing)
 - [convolutional neural networks](https://drive.google.com/file/d/1fGrlxENrbOEAaq0pUP7b2rcaa-7Ioxs8/view?usp=sharing)
+- [computer vision: traditional methods](https://drive.google.com/file/d/1n2MOt2PkNl_4-wGW3q9o95zLqPaF3WYO/view?usp=sharing)
+- [computer vision: deep-learning methods](https://drive.google.com/file/d/1wiWTQniLMvZVWVqxcSsoNdE57vneVf-2/view?usp=sharing)
 <!--
-- [computer vision: traditional methods](CV1.pdf)
-- [computer vision: deep-learning methods](CV2.pdf)
 - [recurrent neural networks](RNNs.pdf)
 - [autoencoders and GANs](GANs.pdf)
 -->
