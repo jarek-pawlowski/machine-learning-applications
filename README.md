@@ -55,7 +55,7 @@ notes for Machine Learning -- Applications course
 5. Augmentation in image processing, two separated tasks:
 - take MNIST or CIFAR dataset, apply some simple geometric transformations (see e.g. [lecture](CV2.pdf)), and check if such dataset extending improves accuracy (take some CNN model from previous labs):
     * use simple transformations (e.g. flip, rotate, translate, scale) using [scikit-image](https://scikit-image.org/docs/dev/api/skimage.transform.html), or [open-cv](https://docs.opencv.org/4.x/da/d6e/tutorial_py_geometric_transformations.html)
-    * or use [albumentations](https://github.com/albumentations-team/albumentations) library, demo: https://albumentations-demo.herokuapp.com/
+    * or use [albumentations](https://github.com/albumentations-team/albumentations) library, demo: https://demo.albumentations.ai/
     > * example of combining *albumentations* with pytorch *Dataset* is presented [here](pytorch_albumentations.ipynb)
     * in case of MNIST verify if applying flips or rotations > 45 deg improve accuracy or not, why?
 - play with one-shot style transfer that might be also used for images augmentation (e.g. see [here](https://www.nature.com/articles/s41598-022-09264-z)), understand the idea, and run some exemplary code on your own images
