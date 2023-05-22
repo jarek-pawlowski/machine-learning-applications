@@ -67,7 +67,14 @@ notes for Machine Learning -- Applications course
 >   * https://github.com/limingcv/Photorealistic-Style-Transfer 
 >   * https://github.com/KushajveerSingh/Photorealistic-Style-Transfer
 
-6. Convolutional GAN on MNIST
+6. Transformer network
+- self-attention mechanism
+- and Transformer encoder implemented from scratch
+[Colab notebook](simple_Transformer.ipynb)
+
+![attention map](attention_head.png)
+
+7. Convolutional GAN on MNIST
 - generative adversarial network model: generator & discriminator 
 - training GANs
 
@@ -75,9 +82,7 @@ notes for Machine Learning -- Applications course
 
 ![example results for GAN model](generated_mnist.png)
 
-7. TBA
 
-    
 ## proposed seminars topics
 - [list of proposed topics](seminars_topics.pdf)
 - [link to form with seminars dates](https://docs.google.com/spreadsheets/d/1yV1DoIH8dCWvYZrYkYNTnBPbCys-nYlkhG-Fmo4VJBw/edit?usp=sharing)
