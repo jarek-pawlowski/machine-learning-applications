@@ -70,6 +70,7 @@ notes for Machine Learning -- Applications course
 6. Transformer network
 - self-attention mechanism
 - and Transformer encoder implemented from scratch
+- 
 [Colab notebook](simple_Transformer.ipynb)
 
 ![attention map](attention_head.png)
