@@ -87,4 +87,4 @@ notes for Machine Learning -- Applications course
 
 ## proposed seminars topics
 - [list of proposed topics](seminars_topics.pdf)
-- [link to form with seminars dates](https://docs.google.com/spreadsheets/d/1yV1DoIH8dCWvYZrYkYNTnBPbCys-nYlkhG-Fmo4VJBw/edit?usp=sharing)
+- [link to form with seminar dates](https://docs.google.com/spreadsheets/d/1yV1DoIH8dCWvYZrYkYNTnBPbCys-nYlkhG-Fmo4VJBw/edit?usp=sharing)
