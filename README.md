@@ -14,6 +14,7 @@ notes for Machine Learning -- Applications course
 - [attention and transformers](https://drive.google.com/file/d/1PYARx84U70I_v-0UMalmJdrYfbtK9q6u/view?usp=sharing)
 - [autoencoders and GANs](https://drive.google.com/file/d/1ub8-l1em4A22HCeephXdbNPEZCBJCw3Y/view?usp=sharing)
 - [graph- and group-equvariant- neural networks](https://drive.google.com/file/d/1IAOaZSrGka6yIboazptO29aMYYnMy9Yw/view?usp=sharing)
+- [self- and semi-supervised learning, synthetic data](https://drive.google.com/file/d/1e7cKVR90kfm1oT11cy9hlBknMmGt9XC4/view?usp=sharing)
 <!--
 -->
 
